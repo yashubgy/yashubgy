@@ -72,21 +72,5 @@ Pulling & pushing
 Merge conflict resolution
 Working with GitHub repositories
 
----
 
-###🚀 What I Like
-🤖 Artificial Intelligence
-🧠 Machine Learning
-💻 Software Development
-🌐 Web & APIs
-🧩 Problem Solving
-🔧 Developer Tools
-🧪 Experimenting with new technologies
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
-<p align="center">
-Learning. Building. Experimenting. 🚀
-</p> 
 
