@@ -62,7 +62,7 @@ Programming
 ```
 ---
 
-###🔀 Git & GitHub
+##🔀 Git & GitHub
 
 Currently comfortable with:
 Version control
