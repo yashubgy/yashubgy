@@ -38,29 +38,239 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ---
 
-## ⚡ Skill Overview
+# YASHU
+
+> `developer.in_progress()` → building foundations for AI/ML
+
+---
+
+## PROJECTS.LIST
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="70%">
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EEEEEE'],borderWidth:0}]},options:{cutout:'88%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:26,weight:'bold',color:'%23111111'}},{text:'FOUNDATION',font:{size:9,color:'%23666666'}}]}}}}" width="150"/>
+### C / C++ Foundations
+`c_cpp`
+
+Programming fundamentals and Object-Oriented Programming with C and C++.
+
+`C` • `C++` • `OOP` • `Problem Solving`
 
 </td>
 
-<td width="75%" valign="middle">
+<td width="30%">
 
-**C / C++** · 60%  
-**Python** · 50%  
-**DSA** · 55%  
-**Git / GitHub** · 65%  
-**Java OOP** · 30%  
-**APIs** · 15%
+**C / C++**
+
+████████████░░░░░░░░ `60%`
+
+**OOP**
+
+█████████████░░░░░░░ `65%`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Python Learning
+`python_learning`
+
+Transitioning into Python and exploring programming concepts, OOP, file handling and data libraries.
+
+`Python` • `OOP` • `File Handling` • `Random` • `NumPy` • `Pandas`
+
+</td>
+
+<td>
+
+**Python**
+
+██████████░░░░░░░░░░ `50%`
+
+**NumPy / Pandas**
+
+████████░░░░░░░░░░░░ `40%`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### DSA Practice
+`dsa`
+
+Working on Data Structures and Algorithms with a focus on logical thinking and problem solving.
+
+`DSA` • `Algorithms` • `Problem Solving`
+
+</td>
+
+<td>
+
+**DSA**
+
+███████████░░░░░░░░░ `55%`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Git & Version Control
+`git`
+
+Hands-on experience with Git and GitHub including branching, merging and resolving merge conflicts.
+
+`Git` • `GitHub` • `Branching` • `Merging`
+
+</td>
+
+<td>
+
+**Git / GitHub**
+
+█████████████░░░░░░░ `65%`
+
+**Version Control**
+
+██████████████░░░░░░ `70%`
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## TOOLCHAIN
+
+> `weighted by what I actually reach for`
+
+<table>
+<tr>
+<td width="20%">
+
+### LANGUAGES
+
+**C / C++**  
+████████████░░░░ `60%`
+
+**Python**  
+██████████░░░░░░ `50%`
+
+**Java**  
+██████░░░░░░░░░░ `30%`
+
+</td>
+
+<td width="20%">
+
+### CORE
+
+**OOP**  
+████████████░░░░ `60%`
+
+**DSA**  
+███████████░░░░░ `55%`
+
+**Problem Solving**  
+██████████░░░░░░ `50%`
+
+</td>
+
+<td width="20%">
+
+### PYTHON
+
+**NumPy**  
+████████░░░░░░░░ `40%`
+
+**Pandas**  
+████████░░░░░░░░ `40%`
+
+**File Handling**  
+██████████░░░░░░ `50%`
+
+</td>
+
+<td width="20%">
+
+### DEVELOPMENT
+
+**Git**  
+█████████████░░░ `65%`
+
+**GitHub**  
+█████████████░░░ `65%`
+
+**APIs**  
+███░░░░░░░░░░░░░ `15%`
+
+</td>
+
+<td width="20%">
+
+### DIRECTION
+
+**AI / ML**  
+█░░░░░░░░░░░░░░░ `5%`
+
+**Software Dev**  
+████░░░░░░░░░░░ `20%`
+
+**Web**  
+██░░░░░░░░░░░░░ `10%`
 
 </td>
 </tr>
 </table>
 
+---
+
+## CURRENT.FOCUS
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   PYTHON                                                     │
+│   ├── OOP                                                    │
+│   ├── File Handling                                          │
+│   ├── Random                                                  │
+│   ├── NumPy                                                   │
+│   └── Pandas                                                  │
+│                                                             │
+│   API                                                         │
+│   └── Currently Learning                                     │
+│                                                             │
+│   JAVA                                                        │
+│   └── OOP • College                                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+STACK
+<p align="left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> </p>
+
+SYSTEM.STATUS
+STATUS      : ONLINE
+MODE        : LEARNING
+PRIMARY     : SOFTWARE / AI
+CURRENT     : PYTHON + APIs
+NEXT        : AI / ML
 
 
+GITHUB.STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashubgy&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&bg_color=00000000" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashubgy&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" width="40%"/> </p>
+
+<p align="center">
+
+LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REPEAT
+
+building the foundation → one project at a time.
+</p> ```
 
