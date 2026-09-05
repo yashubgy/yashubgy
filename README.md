@@ -42,24 +42,25 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 <table>
 <tr>
-<td width="30%" align="center">
+<td width="25%" align="center">
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EAEAEA'],borderWidth:0}]},options:{cutout:'78%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:32,weight:'bold'}},{text:'FOUNDATION',font:{size:11}}]}}}}" width="180"/>
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EEEEEE'],borderWidth:0}]},options:{cutout:'88%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:26,weight:'bold',color:'%23111111'}},{text:'FOUNDATION',font:{size:9,color:'%23666666'}}]}}}}" width="150"/>
 
 </td>
 
-<td width="70%" valign="middle">
+<td width="75%" valign="middle">
 
-**C / C++** — 60%  
-**Python** — 50%  
-**DSA** — 55%  
-**Git / GitHub** — 65%  
-**Java OOP** — 30%  
-**APIs** — 15%
+**C / C++** · 60%  
+**Python** · 50%  
+**DSA** · 55%  
+**Git / GitHub** · 65%  
+**Java OOP** · 30%  
+**APIs** · 15%
 
 </td>
 </tr>
 </table>
+
 
 
 
