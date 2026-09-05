@@ -40,7 +40,7 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ## 🧠 Areas I'm Exploring
 
-```text
+
 Programming
      │
      ├── C / C++
@@ -59,7 +59,6 @@ Programming
           ▼
       AI / ML 🤖
 
-```
 ---
 
 ##🔀 Git & GitHub
