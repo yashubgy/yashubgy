@@ -38,21 +38,31 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ---
 
-## 📊 Skill Progress
+## ⚡ Skill Overview
 
 <p align="center">
-
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[60,40],backgroundColor:['%2300599C','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'60%25',font:{size:24}},{text:'C%2FC%2B%2B',font:{size:12}}]}}}}" width="140"/>
-
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[50,50],backgroundColor:['%233776AB','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'50%25',font:{size:24}},{text:'Python',font:{size:12}}]}}}}" width="140"/>
-
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[55,45],backgroundColor:['%236A5ACD','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'55%25',font:{size:24}},{text:'DSA',font:{size:12}}]}}}}" width="140"/>
-
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[65,35],backgroundColor:['%23F05032','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'65%25',font:{size:24}},{text:'Git%2FGitHub',font:{size:12}}]}}}}" width="140"/>
-
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[30,70],backgroundColor:['%23ED8B00','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'30%25',font:{size:24}},{text:'Java',font:{size:12}}]}}}}" width="140"/>
-
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EAEAEA'],borderWidth:0}]},options:{cutout:'78%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:32,weight:'bold'}},{text:'FOUNDATION',font:{size:11}}]}}}}" width="180"/>
 </p>
+
+<table>
+<tr>
+<td width="35%" valign="middle">
+
+### 45% — Overall Foundation
+
+</td>
+<td width="65%">
+
+**C / C++** — 60%  
+**Python** — 50%  
+**DSA** — 55%  
+**Git / GitHub** — 65%  
+**Java OOP** — 30%  
+**APIs** — 15%
+
+</td>
+</tr>
+</table>
 
 
 
