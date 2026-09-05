@@ -264,13 +264,4 @@ CURRENT     : PYTHON + APIs
 NEXT        : AI / ML
 
 
-GITHUB.STATS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashubgy&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&bg_color=00000000" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashubgy&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" width="40%"/> </p>
-
-<p align="center">
-
-LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REPEAT
-
-building the foundation → one project at a time.
-</p> ```
 
