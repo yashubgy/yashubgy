@@ -61,15 +61,6 @@ Programming
 
 ---
 
-##🔀 Git & GitHub
-
-Currently comfortable with:
-Version control
-Branching
-Merging
-Pulling & pushing
-Merge conflict resolution
-Working with GitHub repositories
 
 
 
