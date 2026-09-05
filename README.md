@@ -38,28 +38,21 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ---
 
-## 🧠 Areas I'm Exploring
+## 📊 Skill Progress
 
+<p align="center">
 
-Programming
-     │
-     ├── C / C++
-     ├── OOP
-     └── DSA
-          │
-          ▼
-       Python
-          │
-          ▼
-        APIs
-          │
-          ▼
- Software Development
-          │
-          ▼
-      AI / ML 🤖
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[60,40],backgroundColor:['%2300599C','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'60%25',font:{size:24}},{text:'C%2FC%2B%2B',font:{size:12}}]}}}}" width="140"/>
 
----
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[50,50],backgroundColor:['%233776AB','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'50%25',font:{size:24}},{text:'Python',font:{size:12}}]}}}}" width="140"/>
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[55,45],backgroundColor:['%236A5ACD','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'55%25',font:{size:24}},{text:'DSA',font:{size:12}}]}}}}" width="140"/>
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[65,35],backgroundColor:['%23F05032','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'65%25',font:{size:24}},{text:'Git%2FGitHub',font:{size:12}}]}}}}" width="140"/>
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[30,70],backgroundColor:['%23ED8B00','%23303330'],borderWidth:0}]},options:{cutoutPercentage:72,plugins:{doughnutlabel:{labels:[{text:'30%25',font:{size:24}},{text:'Java',font:{size:12}}]}}}}" width="140"/>
+
+</p>
 
 
 
