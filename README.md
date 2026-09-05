@@ -40,18 +40,15 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ## ⚡ Skill Overview
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EAEAEA'],borderWidth:0}]},options:{cutout:'78%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:32,weight:'bold'}},{text:'FOUNDATION',font:{size:11}}]}}}}" width="180"/>
-</p>
-
 <table>
 <tr>
-<td width="35%" valign="middle">
+<td width="30%" align="center">
 
-### 45% — Overall Foundation
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[45,55],backgroundColor:['%23111111','%23EAEAEA'],borderWidth:0}]},options:{cutout:'78%25',plugins:{legend:{display:false},doughnutlabel:{labels:[{text:'45%25',font:{size:32,weight:'bold'}},{text:'FOUNDATION',font:{size:11}}]}}}}" width="180"/>
 
 </td>
-<td width="65%">
+
+<td width="70%" valign="middle">
 
 **C / C++** — 60%  
 **Python** — 50%  
@@ -63,7 +60,6 @@ I enjoy learning new technologies, experimenting with things, and building proje
 </td>
 </tr>
 </table>
-
 
 
 
