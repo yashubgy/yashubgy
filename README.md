@@ -59,23 +59,22 @@ Programming
           ▼
       AI / ML 🤖
 
+```
+---
 
-🔀 Git & GitHub
+###🔀 Git & GitHub
 
 Currently comfortable with:
-
 Version control
 Branching
 Merging
 Pulling & pushing
 Merge conflict resolution
 Working with GitHub repositories
-🌐 Currently Learning
-APIs
 
-Learning how APIs work, how applications communicate, and how to integrate external services into applications.
+---
 
-🚀 What I Like
+###🚀 What I Like
 🤖 Artificial Intelligence
 🧠 Machine Learning
 💻 Software Development
@@ -89,6 +88,5 @@ Learning how APIs work, how applications communicate, and how to integrate exter
 <p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
 <p align="center">
 Learning. Building. Experimenting. 🚀
-</p> ```
+</p> 
 
-Replace both occurrences of YOUR_USERNAME with your GitHub username.
