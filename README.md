@@ -237,18 +237,18 @@ Hands-on experience with Git and GitHub including branching, merging and resolvi
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   PYTHON                                                     │
-│   ├── OOP                                                    │
-│   ├── File Handling                                          │
-│   ├── Random                                                  │
-│   ├── NumPy                                                   │
-│   └── Pandas                                                  │
+│   PYTHON                                                    │
+│   ├── OOP                                                   │
+│   ├── File Handling                                         │
+│   ├── Random                                                │
+│   ├── NumPy                                                 │
+│   └── Pandas                                                │
 │                                                             │
-│   API                                                         │
-│   └── Currently Learning                                     │
+│   API                                                       │
+│   └── Currently Learning                                    │
 │                                                             │
-│   JAVA                                                        │
-│   └── OOP • College                                          │
+│   JAVA                                                      │
+│   └── OOP • College                                         │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
