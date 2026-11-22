@@ -1,23 +1,22 @@
 # Hey, I'm Yashu 👋
 
-### 💻 Developer in Progress • 🤖 Future AI/ML Engineer
+### 💻 Developer • 🤖 Aspiring AI/ML Engineer
 
-I'm a student currently building my foundations in **programming, DSA, software development, and APIs**, with a long-term interest in **AI/ML engineering**.
+I'm a student building **AI/ML applications, RAG pipelines, and intelligent software systems**, backed by solid foundations in **Python, C/C++, DSA, and APIs**.
 
-I enjoy learning new technologies, experimenting with things, and building projects along the way.
+I enjoy learning from first principles, experimenting with LLMs and vector search, and shipping real projects along the way.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Comfortable with **C/C++ and OOP**
-- 🧩 Learning and practicing **DSA**
-- 🐍 Currently transitioning to **Python**
-- ☕ Learning **Java OOP** as part of college
+- 🤖 Actively building **AI/ML & RAG systems** (embeddings, vector search, LLM APIs)
+- 🐍 Comfortable with **Python** (OOP, File Handling, NumPy, Pandas)
+- 💻 Strong foundations in **C/C++ and OOP**
+- 🧩 Consistently practicing **DSA** (Dynamic Programming, Graphs, Trees)
+- 🌐 Working with **LLMs, APIs, and Streamlit**
 - 🔀 Comfortable with **Git & GitHub**
-- 🌐 Currently learning **APIs**
-- 🤖 Interested in **AI/ML & intelligent applications**
-- 🚀 Learning by building and experimenting
+- 🚀 Learning by building from scratch
 
 ---
 
@@ -25,10 +24,17 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI / ML & Data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Tools & Development
 
@@ -40,7 +46,7 @@ I enjoy learning new technologies, experimenting with things, and building proje
 
 # YASHU
 
-> `developer.in_progress()` → building foundations for AI/ML
+> `ai_engineer.in_progress()` → building RAG pipelines, ML systems & applied AI
 
 ---
 
@@ -50,24 +56,24 @@ I enjoy learning new technologies, experimenting with things, and building proje
 <tr>
 <td width="70%">
 
-### C / C++ Foundations
-`c_cpp`
+### Smart PDF Research Assistant (RAG)
+`rag_pdf_assistant`
 
-Programming fundamentals and Object-Oriented Programming with C and C++.
+End-to-end Retrieval-Augmented Generation app built from scratch with semantic chunking, NumPy cosine similarity search, query routing, Gemini streaming, and a Streamlit UI with page citations.
 
-`C` • `C++` • `OOP` • `Problem Solving`
+`Python` • `RAG` • `NumPy` • `Embeddings` • `Gemini API` • `Streamlit`
 
 </td>
 
 <td width="30%">
 
-**C / C++**
+**RAG / LLMs**
 
-████████████░░░░░░░░ `60%`
+██████████████░░░░░░ `70%`
 
-**OOP**
+**Vector Search**
 
-█████████████░░░░░░░ `65%`
+██████████████░░░░░░ `70%`
 
 </td>
 </tr>
@@ -75,12 +81,12 @@ Programming fundamentals and Object-Oriented Programming with C and C++.
 <tr>
 <td>
 
-### Python Learning
-`python_learning`
+### Python & Data Foundations
+`python_core`
 
-Transitioning into Python and exploring programming concepts, OOP, file handling and data libraries.
+Solid command over Python fundamentals, OOP, file handling, NumPy vector math, and Pandas data manipulation.
 
-`Python` • `OOP` • `File Handling` • `Random` • `NumPy` • `Pandas`
+`Python` • `OOP` • `File Handling` • `NumPy` • `Pandas`
 
 </td>
 
@@ -88,11 +94,11 @@ Transitioning into Python and exploring programming concepts, OOP, file handling
 
 **Python**
 
-██████████░░░░░░░░░░ `50%`
+████████████████░░░░ `80%`
 
 **NumPy / Pandas**
 
-████████░░░░░░░░░░░░ `40%`
+███████████████░░░░░ `75%`
 
 </td>
 </tr>
@@ -103,9 +109,9 @@ Transitioning into Python and exploring programming concepts, OOP, file handling
 ### DSA Practice
 `dsa`
 
-Working on Data Structures and Algorithms with a focus on logical thinking and problem solving.
+Solving Data Structures and Algorithms problems with a strong focus on Dynamic Programming, logical thinking, and optimization.
 
-`DSA` • `Algorithms` • `Problem Solving`
+`DSA` • `Dynamic Programming` • `Algorithms` • `Problem Solving`
 
 </td>
 
@@ -113,7 +119,7 @@ Working on Data Structures and Algorithms with a focus on logical thinking and p
 
 **DSA**
 
-███████████░░░░░░░░░ `55%`
+█████████████░░░░░░░ `65%`
 
 </td>
 </tr>
@@ -121,24 +127,24 @@ Working on Data Structures and Algorithms with a focus on logical thinking and p
 <tr>
 <td>
 
-### Git & Version Control
-`git`
+### C / C++ & Git Foundations
+`core_dev`
 
-Hands-on experience with Git and GitHub including branching, merging and resolving merge conflicts.
+Object-Oriented Programming in C/C++ along with hands-on Git & GitHub workflows including branching, merging, and version control.
 
-`Git` • `GitHub` • `Branching` • `Merging`
+`C` • `C++` • `OOP` • `Git` • `GitHub`
 
 </td>
 
 <td>
 
-**Git / GitHub**
+**C / C++**
 
 █████████████░░░░░░░ `65%`
 
-**Version Control**
+**Git / GitHub**
 
-██████████████░░░░░░ `70%`
+███████████████░░░░░ `75%`
 
 </td>
 </tr>
@@ -157,11 +163,11 @@ Hands-on experience with Git and GitHub including branching, merging and resolvi
 
 ### LANGUAGES
 
-**C / C++**  
-████████████░░░░ `60%`
-
 **Python**  
-██████████░░░░░░ `50%`
+████████████████ `80%`
+
+**C / C++**  
+█████████████░░░ `65%`
 
 **Java**  
 ██████░░░░░░░░░░ `30%`
@@ -170,46 +176,46 @@ Hands-on experience with Git and GitHub including branching, merging and resolvi
 
 <td width="20%">
 
-### CORE
+### AI / RAG
 
-**OOP**  
+**RAG Pipelines**  
+██████████████░░ `70%`
+
+**Embeddings**  
+█████████████░░░ `65%`
+
+**LLM APIs**  
 ████████████░░░░ `60%`
 
-**DSA**  
-███████████░░░░░ `55%`
-
-**Problem Solving**  
-██████████░░░░░░ `50%`
-
 </td>
 
 <td width="20%">
 
-### PYTHON
+### DATA / PYTHON
 
 **NumPy**  
-████████░░░░░░░░ `40%`
+███████████████░ `75%`
 
 **Pandas**  
-████████░░░░░░░░ `40%`
+███████████████░ `75%`
 
 **File Handling**  
-██████████░░░░░░ `50%`
+████████████████ `80%`
 
 </td>
 
 <td width="20%">
 
-### DEVELOPMENT
+### CORE / DEV
 
-**Git**  
+**DSA & OOP**  
 █████████████░░░ `65%`
 
-**GitHub**  
-█████████████░░░ `65%`
+**Git / GitHub**  
+███████████████░ `75%`
 
-**APIs**  
-███░░░░░░░░░░░░░ `15%`
+**Streamlit**  
+████████████░░░░ `60%`
 
 </td>
 
@@ -218,13 +224,13 @@ Hands-on experience with Git and GitHub including branching, merging and resolvi
 ### DIRECTION
 
 **AI / ML**  
-█░░░░░░░░░░░░░░░ `5%`
+██████████░░░░░░ `50%`
 
-**Software Dev**  
-████░░░░░░░░░░░ `20%`
+**Applied GenAI**  
+████████████░░░░ `60%`
 
-**Web**  
-██░░░░░░░░░░░░░ `10%`
+**Backend / APIs**  
+████████░░░░░░░░ `40%`
 
 </td>
 </tr>
@@ -237,31 +243,46 @@ Hands-on experience with Git and GitHub including branching, merging and resolvi
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   PYTHON                                                    │
-│   ├── OOP                                                   │
-│   ├── File Handling                                         │
-│   ├── Random                                                │
-│   ├── NumPy                                                 │
-│   └── Pandas                                                │
+│   RAG & APPLIED AI                                          │
+│   ├── Semantic Chunking & Hybrid Search (BM25 + Vectors)    │
+│   ├── Embeddings & Vector Databases                         │
+│   ├── Prompt Engineering & Guardrails                       │
+│   └── LLM APIs, Streaming & Query Routing                   │
 │                                                             │
-│   API                                                       │
-│   └── Currently Learning                                    │
+│   MACHINE LEARNING                                          │
+│   ├── Core ML Algorithms & Math                             │
+│   ├── Scikit-Learn & Model Evaluation                       │
+│   └── Deep Learning Foundations                             │
 │                                                             │
-│   JAVA                                                      │
-│   └── OOP • College                                         │
+│   ENGINEERING & DSA                                         │
+│   ├── FastAPI & Backend Deployment                          │
+│   └── LeetCode (DP, Graphs, Trees)                          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 STACK
-<p align="left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 SYSTEM.STATUS
+```text
 STATUS      : ONLINE
-MODE        : LEARNING
-PRIMARY     : SOFTWARE / AI
-CURRENT     : PYTHON + APIs
-NEXT        : AI / ML
-
-
-
+MODE        : BUILDING
+PRIMARY     : AI / ML & RAG
+CURRENT     : RAG SYSTEMS + ML FOUNDATIONS
+NEXT        : HYBRID SEARCH + PRODUCTION AI
+```
